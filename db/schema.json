@@ -1,0 +1,12 @@
+{
+  "tables": {
+    "items": {
+      "fields": {
+        "id": { "type": "id", "required": true },
+        "name": { "type": "string", "required": true },
+        "value": { "type": "string", "required": true }
+      },
+      "relations": {}
+    }
+  }
+}

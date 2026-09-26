@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "id": "1", "name": "Alpha Widget", "value": "High‑performance widget for industrial use" },
+    { "id": "2", "name": "Beta Gadget", "value": "Compact gadget with Bluetooth connectivity" },
+    { "id": "3", "name": "Gamma Tool", "value": "Multi‑purpose tool for DIY projects" },
+    { "id": "4", "name": "Delta Device", "value": "Smart home device with voice control" },
+    { "id": "5", "name": "Epsilon Apparatus", "value": "Laboratory apparatus for precise measurements" },
+    { "id": "6", "name": "Zeta Instrument", "value": "Portable instrument for field diagnostics" },
+    { "id": "7", "name": "Eta Module", "value": "Expandable module for modular systems" },
+    { "id": "8", "name": "Theta Component", "value": "Durable component for heavy‑duty machinery" },
+    { "id": "9", "name": "Iota Accessory", "value": "Accessory kit for electronic devices" },
+    { "id": "10", "name": "Kappa Part", "value": "Replacement part for automotive engines" }
+  ]
+}
